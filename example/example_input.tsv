@@ -1,0 +1,247 @@
+Inhibition of platelet receptors involved in neutrophil-platelet interaction in model cardiopulmonary bypass. We investigated the interactions between neutrophils, platelets, and artificial surfaces, and whether blocking of relevant receptors on platelets reduced unwanted activation responses in model cardiopulmonary bypass. Isolated neutrophils and platelets resuspended in heparin-anticoagulated plasma were recirculated with and without blocking antibodies to CD62P, CD42b, or junctional adhesion molecule C (JAM-C) in polyvinyl chloride tubing using a roller pump. Platelet adhesion to the tubing was inhibited by anti-CD42b and anti-CD62P, and adhesion of neutrophils by anti-JAM-C. Formation of platelet-neutrophil and platelet aggregates was reduced by anti-CD62P. Anti-JAM-C decreased platelet-neutrophil aggregation at low concentrations and platelet macroaggregates at high concentrations. Anti-CD62P increased neutrophil CD11b expression but not degranulation. Anti-JAM-C substantially increased neutrophil degranulation and slightly increased CD11b expression. Platelet activation increased when CD62P was blocked and decreased with anti-CD42b antibody. High-dose anti-JAM-C reduced platelet activation. In conclusion, inhibiting platelet and neutrophil-platelet interactions had useful effects but no single blocking antibody seemed capable of inducing only beneficial effects.
+17651117	T18	GENE	14	32	platelet receptors
+17651117	T5	GENE	465	470	CD62P
+17651117	T6	GENE	472	477	CD42b
+17651117	T7	GENE	482	512	junctional adhesion molecule C
+17651117	T8	GENE	514	519	JAM-C
+17651117	T1	CHEMICAL	524	542	polyvinyl chloride
+17651117	T9	GENE	625	630	CD42b
+17651117	T10	GENE	640	645	CD62P
+17651117	T11	GENE	683	688	JAM-C
+17651117	T12	GENE	767	772	CD62P
+17651117	T13	GENE	779	784	JAM-C
+17651117	T14	GENE	907	912	CD62P
+17651117	T15	GENE	934	939	CD11b
+17651117	T16	GENE	979	984	JAM-C
+17651117	T17	GENE	1057	1062	CD11b
+17651117	T2	GENE	1110	1115	CD62P
+17651117	T3	GENE	1152	1157	CD42b
+17651117	T4	GENE	1183	1188	JAM-C
+
+Protein kinase C potentiates homologous desensitization of the beta2-adrenoceptor in bovine tracheal smooth muscle. Preincubation (30 min) of bovine tracheal smooth muscle with various concentrations (0.1, 1 and 10 microM) of fenoterol decreased isoprenaline-induced maximal relaxation (E(max)) of methacholine-contracted preparations in a concentration dependent fashion, indicating desensitization of the beta(2)-adrenoceptor. Preincubation with 1 microM of the protein kinase C (PKC) activator phorbol 12-myristate 13-acetate (PMA) caused a small but significant decrease in isoprenaline-induced E(max), indicating activated PKC-mediated heterologous beta(2)-adrenoceptor desensitization. To investigate the capacity of activated PKC to regulate homologous desensitization, we incubated the smooth muscle strips with the combination of both 1 microM PMA and 1 microM fenoterol. This combined treatment synergistically decreased the isoprenaline-induced maximal relaxation, as compared to the individual effects of PMA and fenoterol alone, indicating a common pathway for heterologous and homologous desensitization. Moreover, the specific PKC-inhibitor 2-[1-(3-dimethylaminopropyl)-1H-indol-3-yl]-3-(1H-indol-3-yl) maleimide (GF 109203X) markedly increased the potency and E(max) of isoprenaline for all conditions used, including control conditions, and the synergistic effects of PMA and fenoterol were completely prevented. In conclusion, the present study demonstrates that homologous desensitization of the beta(2)-adrenergic receptor can be enhanced by PKC activation. For the first time we have provided evidence that this concept is functionally operative in airway smooth muscle, and it may explain the reduced bronchodilator response to beta(2)-adrenoceptor agonists in patients with asthma during a severe exacerbation.
+16324695	T26	GENE	0	16	Protein kinase C
+16324695	T27	GENE	63	81	beta2-adrenoceptor
+16324695	T2	CHEMICAL	226	235	fenoterol
+16324695	T7	CHEMICAL	246	258	isoprenaline
+16324695	T8	CHEMICAL	298	310	methacholine
+16324695	T20	GENE	407	427	beta(2)-adrenoceptor
+16324695	T21	GENE	464	480	protein kinase C
+16324695	T22	GENE	482	485	PKC
+16324695	T9	CHEMICAL	497	528	phorbol 12-myristate 13-acetate
+16324695	T10	CHEMICAL	530	533	PMA
+16324695	T11	CHEMICAL	578	590	isoprenaline
+16324695	T23	GENE	628	631	PKC
+16324695	T24	GENE	654	674	beta(2)-adrenoceptor
+16324695	T25	GENE	733	736	PKC
+16324695	T12	CHEMICAL	870	879	fenoterol
+16324695	T13	CHEMICAL	935	947	isoprenaline
+16324695	T14	CHEMICAL	1017	1020	PMA
+16324695	T15	CHEMICAL	1025	1034	fenoterol
+16324695	T16	GENE	1142	1145	PKC
+16324695	T1	CHEMICAL	1156	1227	2-[1-(3-dimethylaminopropyl)-1H-indol-3-yl]-3-(1H-indol-3-yl) maleimide
+16324695	T3	CHEMICAL	1229	1239	GF 109203X
+16324695	T4	CHEMICAL	1286	1298	isoprenaline
+16324695	T5	CHEMICAL	1385	1388	PMA
+16324695	T6	CHEMICAL	1393	1402	fenoterol
+16324695	T17	GENE	1515	1542	beta(2)-adrenergic receptor
+16324695	T18	GENE	1562	1565	PKC
+16324695	T19	GENE	1750	1770	beta(2)-adrenoceptor
+
+Interaction of rofecoxib and celecoxib with warfarin. The interaction of celecoxib and rofecoxib with warfarin was studied. Patients stable on warfarin therapy and concurrently taking a cyclooxygenase-2 (COX-2) inhibitor comparator (traditional nonsteroidal antiinflammatory medications, salsalate, or acetaminophen) randomly received celecoxib 200 mg/day or rofecoxib 25 mg/day for three weeks. After a one-week washout period, the patients were crossed over to treatment with the opposite COX-2 inhibitor for three more weeks. The International Normalized Ratio (INR) was measured at baseline and at weeks 1, 2, and 3 of therapy with each COX-2 inhibitor by testing blood samples obtained by finger stick. Data for 16 patients were analyzed. The INR increased by 13%, 6%, and 5% on average in patients taking celecoxib at weeks 1, 2, and 3, respectively, and by 5%, 9%, and 5% in patients taking rofecoxib. Changes in the INR were statistically significant at week 1 for celecoxib and at week 2 for rofecoxib. Of the 12 subjects who had a clinically significant > or = 15% change in the INR while receiving either COX-2 inhibitor, 4 showed this change for both agents. Adverse drug reactions were similar for each COX-2 inhibitor, but the rate of edema requiring medical intervention was higher in the rofecoxib group. Significant increases in the INR were observed in patients who were stable on warfarin therapy after the addition of therapy with rofecoxib or celecoxib.
+12901032	T17	CHEMICAL	15	24	rofecoxib
+12901032	T18	CHEMICAL	29	38	celecoxib
+12901032	T19	CHEMICAL	44	52	warfarin
+12901032	T5	CHEMICAL	73	82	celecoxib
+12901032	T10	CHEMICAL	87	96	rofecoxib
+12901032	T11	CHEMICAL	102	110	warfarin
+12901032	T14	CHEMICAL	143	151	warfarin
+12901032	T22	GENE	186	202	cyclooxygenase-2
+12901032	T23	GENE	204	209	COX-2
+12901032	T6	CHEMICAL	288	297	salsalate
+12901032	T7	CHEMICAL	302	315	acetaminophen
+12901032	T8	CHEMICAL	335	344	celecoxib
+12901032	T9	CHEMICAL	359	368	rofecoxib
+12901032	T24	GENE	491	496	COX-2
+12901032	T25	GENE	641	646	COX-2
+12901032	T12	CHEMICAL	811	820	celecoxib
+12901032	T13	CHEMICAL	898	907	rofecoxib
+12901032	T15	CHEMICAL	973	982	celecoxib
+12901032	T16	CHEMICAL	1001	1010	rofecoxib
+12901032	T20	GENE	1116	1121	COX-2
+12901032	T21	GENE	1216	1221	COX-2
+12901032	T1	CHEMICAL	1304	1313	rofecoxib
+12901032	T2	CHEMICAL	1399	1407	warfarin
+12901032	T3	CHEMICAL	1451	1460	rofecoxib
+12901032	T4	CHEMICAL	1464	1473	celecoxib
+
+Chromatin-associated proteins HMGB1/2 and PDIA3 trigger cellular response to chemotherapy-induced DNA damage. The identification of new molecular components of the DNA damage signaling cascade opens novel avenues to enhance the efficacy of chemotherapeutic drugs. High-mobility group protein 1 (HMGB1) is a DNA damage sensor responsive to the incorporation of nonnatural nucleosides into DNA; several nuclear and cytosolic proteins are functionally integrated with HMGB1 in the context of DNA damage response. The functional role of HMGB1 and HMGB1-associated proteins (high-mobility group protein B2, HMGB2; glyceraldehyde-3-phosphate dehydrogenase, GAPDH; protein disulfide isomerase family A member 3, PDIA3; and heat shock 70 kDa protein 8, HSPA8) in DNA damage response was assessed in human carcinoma cells A549 and UO31 by transient knockdown with short interfering RNAs. Using the cell proliferation assay, we found that knockdown of HMGB1-associated proteins resulted in 8-fold to 50-fold decreased chemosensitivity of A549 cells to cytarabine. Western blot analysis and immunofluorescent microscopy were used to evaluate genotoxic stress markers in knocked-down cancer cells after 24 to 72 hours of incubation with 1 micromol/L of cytarabine. Our results dissect the roles of HMGB1-associated proteins in DNA damage response: HMGB1 and HMGB2 facilitate p53 phosphorylation after exposure to genotoxic stress, and PDIA3 has been found essential for H2AX phosphorylation (no gamma-H2AX accumulated after 24-72 hours of incubation with 1 micromol/L of cytarabine in PDIA3 knockdown cells). We conclude that phosphorylation of p53 and phosphorylation of H2AX occur in two distinct branches of the DNA damage response. These findings identify new molecular components of the DNA damage signaling cascade and provide novel promising targets for chemotherapeutic intervention.
+19372559	T31	GENE	30	37	HMGB1/2
+19372559	T32	GENE	42	47	PDIA3
+19372559	T16	GENE	264	293	High-mobility group protein 1
+19372559	T18	GENE	295	300	HMGB1
+19372559	T3	CHEMICAL	371	382	nucleosides
+19372559	T19	GENE	465	470	HMGB1
+19372559	T20	GENE	533	538	HMGB1
+19372559	T21	GENE	543	548	HMGB1
+19372559	T22	GENE	570	600	high-mobility group protein B2
+19372559	T23	GENE	602	607	HMGB2
+19372559	T4	CHEMICAL	609	635	glyceraldehyde-3-phosphate
+19372559	T24	GENE	609	649	glyceraldehyde-3-phosphate dehydrogenase
+19372559	T25	GENE	651	656	GAPDH
+19372559	T26	GENE	658	703	protein disulfide isomerase family A member 3
+19372559	T5	CHEMICAL	666	675	disulfide
+19372559	T27	GENE	705	710	PDIA3
+19372559	T28	GENE	716	743	heat shock 70 kDa protein 8
+19372559	T29	GENE	745	750	HSPA8
+19372559	T30	GENE	942	947	HMGB1
+19372559	T6	CHEMICAL	1042	1052	cytarabine
+19372559	T1	CHEMICAL	1241	1251	cytarabine
+19372559	T7	GENE	1286	1291	HMGB1
+19372559	T8	GENE	1336	1341	HMGB1
+19372559	T9	GENE	1346	1351	HMGB2
+19372559	T10	GENE	1363	1366	p53
+19372559	T11	GENE	1423	1428	PDIA3
+19372559	T12	GENE	1458	1462	H2AX
+19372559	T13	GENE	1483	1493	gamma-H2AX
+19372559	T2	CHEMICAL	1559	1569	cytarabine
+19372559	T14	GENE	1573	1578	PDIA3
+19372559	T15	GENE	1633	1636	p53
+19372559	T17	GENE	1660	1664	H2AX
+
+The role of 5-HT(1A) and 5-HT(1B/1D) receptors on the modulation of acute fluoxetine-induced changes in extracellular 5-HT: the mechanism of action of (+/-)pindolol. Some clinical evidence has suggested that (+/-)pindolol can be effective at producing a shortened time to onset of antidepressant activity when co-administered with a serotonin specific reuptake inhibitor (SSRI). This effect has been attributed to the antagonist effects of pindolol at the 5-HT(1A) receptor. In the present study, we compared the pharmacology of (+/-)pindolol, WAY-100635 (a 5-HT(1A) antagonist), GR127935 (a 5-HT(1B/1D) antagonist), and isamoltane (a 5-HT(1B) antagonist), when given acutely in combination with fluoxetine, using in vivo microdialysis in the frontal cortex of the freely moving rat. We have determined that the acute fluoxetine-induced increases in extracellular 5-HT can be augmented by (+/-)pindolol, WAY100635, GR127935 and isamoltane with maximum increases of 216+/-32%, 235+/-49%, 240+/-18% and 171+/-47% of preinjection control levels, respectively. Combination of both 5-HT(1A) and 5-HT(1B/1D) autoreceptor antagonists with fluoxetine produced additive increases in extracellular 5-HT (i.e. WAY100635+GR127935+fluoxetine and WAY100635+isamoltane+fluoxetine produced a four- and five-fold potentiation, respectively), suggesting that this strategy may be useful in further augmenting the action of a SSRI in the treatment of depression. In addition, by comparing the combined administration of (+/-)pindolol with either WAY100635, GR127935 or isamoltane, we have determined that (+/-)pindolol produces much of its acute potentiation of fluoxetine-induced increases in extracellular 5-HT via its action at the 5-HT(1B/D) receptor in addition to any activity it has at the presynaptic 5-HT(1A) receptor.
+10727715	T42	GENE	12	20	5-HT(1A)
+10727715	T43	GENE	25	46	5-HT(1B/1D) receptors
+10727715	T32	CHEMICAL	74	84	fluoxetine
+10727715	T30	CHEMICAL	118	122	5-HT
+10727715	T31	CHEMICAL	151	164	(+/-)pindolol
+10727715	T20	CHEMICAL	208	221	(+/-)pindolol
+10727715	T15	CHEMICAL	333	342	serotonin
+10727715	T16	CHEMICAL	440	448	pindolol
+10727715	T36	GENE	456	464	5-HT(1A)
+10727715	T17	CHEMICAL	529	542	(+/-)pindolol
+10727715	T18	CHEMICAL	544	554	WAY-100635
+10727715	T37	GENE	558	566	5-HT(1A)
+10727715	T19	CHEMICAL	580	588	GR127935
+10727715	T38	GENE	592	603	5-HT(1B/1D)
+10727715	T21	CHEMICAL	621	631	isamoltane
+10727715	T39	GENE	635	643	5-HT(1B)
+10727715	T22	CHEMICAL	696	706	fluoxetine
+10727715	T23	CHEMICAL	818	828	fluoxetine
+10727715	T24	CHEMICAL	864	868	5-HT
+10727715	T25	CHEMICAL	889	902	(+/-)pindolol
+10727715	T26	CHEMICAL	904	913	WAY100635
+10727715	T27	CHEMICAL	915	923	GR127935
+10727715	T28	CHEMICAL	928	938	isamoltane
+10727715	T40	GENE	1077	1085	5-HT(1A)
+10727715	T41	GENE	1090	1101	5-HT(1B/1D)
+10727715	T29	CHEMICAL	1132	1142	fluoxetine
+10727715	T1	CHEMICAL	1188	1192	5-HT
+10727715	T2	CHEMICAL	1199	1208	WAY100635
+10727715	T3	CHEMICAL	1209	1217	GR127935
+10727715	T4	CHEMICAL	1218	1228	fluoxetine
+10727715	T5	CHEMICAL	1233	1242	WAY100635
+10727715	T6	CHEMICAL	1243	1253	isamoltane
+10727715	T7	CHEMICAL	1254	1264	fluoxetine
+10727715	T8	CHEMICAL	1501	1514	(+/-)pindolol
+10727715	T9	CHEMICAL	1527	1536	WAY100635
+10727715	T10	CHEMICAL	1538	1546	GR127935
+10727715	T11	CHEMICAL	1550	1560	isamoltane
+10727715	T12	CHEMICAL	1586	1599	(+/-)pindolol
+10727715	T13	CHEMICAL	1643	1653	fluoxetine
+10727715	T14	CHEMICAL	1689	1693	5-HT
+10727715	T33	GENE	1716	1726	5-HT(1B/D)
+10727715	T34	GENE	1716	1735	5-HT(1B/D) receptor
+10727715	T35	GENE	1790	1798	5-HT(1A)
+
+Common and specific determinants for fibroblast growth factors in the ectodomain of the receptor kinase complex. The assembly and activation of oligomeric complexes of FGF, the transmembrane receptor kinase (FGFR), and heparan sulfate transmit intracellular signals regulating growth and function of cells. An understanding of the structural relationships between the three subunits and their redundancy and specificity is essential for understanding the ubiquitous FGF signaling system in health and disease. Previously, we reported that a primary heparin or heparan sulfate binding site resides in a distinct sequence in immunoglobulin (Ig)-like module II of the three modules of FGFR. Here we report that in the absence of flanking sequences, isolated Ig module II of FGFR1 supports the binding of FGF-1, FGF-2, and FGF-7 in respective order of affinity. None of the three FGFs detectably bind Ig module I or the IIIb and IIIc splice variants of Ig module III in the absence of flanking sequences. Ig module I and the C-terminus of Ig module III are dispensable for high-affinity binding of FGF-1, FGF-2, and FGF-7. Alterations in highly conserved Ig module II in the heparin binding domain and substitution of individual sequence domains spanning the entire sequence of Ig module II with those from Ig module I obliterated FGF binding. Addition of a specific number of FGFR sequences to the C-terminus of Ig module II resulted in a gain in affinity for FGF-7. Several site-specific alterations in the C-terminus of full-length FGFR1IIIc, an isoform that otherwise absolutely rejects FGF-7, resulted in gain of FGF-7 binding. These results suggest that a complex of Ig module II and heparan sulfate is the base common active core of the FGFR ectodomain and that flanking structural domains modify FGF affinity and determine specificity.
+9890894	T39	GENE	37	62	fibroblast growth factors
+9890894	T40	GENE	88	103	receptor kinase
+9890894	T22	GENE	168	171	FGF
+9890894	T25	GENE	177	206	transmembrane receptor kinase
+9890894	T35	GENE	208	212	FGFR
+9890894	T1	CHEMICAL	227	234	sulfate
+9890894	T20	GENE	466	469	FGF
+9890894	T5	CHEMICAL	568	575	sulfate
+9890894	T21	GENE	623	657	immunoglobulin (Ig)-like module II
+9890894	T23	GENE	682	686	FGFR
+9890894	T24	GENE	755	767	Ig module II
+9890894	T26	GENE	771	776	FGFR1
+9890894	T27	GENE	801	806	FGF-1
+9890894	T28	GENE	808	813	FGF-2
+9890894	T29	GENE	819	824	FGF-7
+9890894	T30	GENE	876	880	FGFs
+9890894	T31	GENE	897	929	Ig module I or the IIIb and IIIc
+9890894	T32	GENE	949	962	Ig module III
+9890894	T33	GENE	1001	1012	Ig module I
+9890894	T6	CHEMICAL	1021	1022	C
+9890894	T34	GENE	1035	1048	Ig module III
+9890894	T36	GENE	1094	1099	FGF-1
+9890894	T37	GENE	1101	1106	FGF-2
+9890894	T38	GENE	1112	1117	FGF-7
+9890894	T7	GENE	1151	1163	Ig module II
+9890894	T8	GENE	1274	1286	Ig module II
+9890894	T9	GENE	1303	1314	Ig module I
+9890894	T10	GENE	1327	1330	FGF
+9890894	T11	GENE	1373	1377	FGFR
+9890894	T2	CHEMICAL	1395	1396	C
+9890894	T12	GENE	1409	1421	Ig module II
+9890894	T13	GENE	1457	1462	FGF-7
+9890894	T3	CHEMICAL	1505	1506	C
+9890894	T14	GENE	1531	1540	FGFR1IIIc
+9890894	T15	GENE	1587	1592	FGF-7
+9890894	T16	GENE	1614	1619	FGF-7
+9890894	T17	GENE	1669	1681	Ig module II
+9890894	T4	CHEMICAL	1694	1701	sulfate
+9890894	T18	GENE	1740	1755	FGFR ectodomain
+9890894	T19	GENE	1800	1803	FGF
+
+Pharmacokinetic and pharmacodynamic modeling of hedgehog inhibitor TAK-441 for the inhibition of Gli1 messenger RNA expression and antitumor efficacy in xenografted tumor model mice. 6-Ethyl-N-[1-(hydroxyacetyl)piperidin-4-yl]-1-methyl-4-oxo-5-(2-oxo-2-phenylethyl)-3-(2,2,2-trifluoroethoxy)-4,5-dihydro-1H-pyrrolo[3,2-c]pyridine-2-carboxamide (TAK-441) is a potent, selective hedgehog signaling pathway inhibitor that binds to Smo and is being developed for the treatment of cancer. The objectives of these studies were to explore the possibility of establishing of a link between the pharmacokinetics of TAK-441 and the responses of Gli1 mRNA in tumor-associated stromal or skin cells and the antitumor effect of hedgehog inhibition. To this end, we built pharmacokinetic and pharmacodynamic models that describe the relationship of the concentrations of TAK-441 plasma to the responses of Gli1 mRNA in the tumor (target) and skin (surrogate) and to tumor growth inhibition in mice bearing xenografts of human pancreatic tumors (PAN-04). The responses of Gli1 mRNA and tumor growth were described by an indirect response model and an exponential tumor growth model, respectively. The IC50 values for Gli1 mRNA inhibition in the tumor and skin by TAK-441 were estimated to be 0.0457 and 0.113 μg/ml, respectively. The IC90 value for tumor growth inhibition was estimated to be 0.68 μg/ml. These results suggest that a >83% inhibition of Gli1 mRNA expression in the skin or a >94% inhibition of Gli1 mRNA expression in the tumor would be required to sufficiently inhibit (>90%) hedgehog-related tumor growth in the xenografted model mice. We conclude that Gli1 mRNA expression in the tumor and skin could be a useful biomarker for predicting the antitumor effect of hedgehog inhibitors.
+23298863	T19	GENE	48	56	hedgehog
+23298863	T6	CHEMICAL	67	74	TAK-441
+23298863	T20	GENE	97	101	Gli1
+23298863	T1	CHEMICAL	183	343	6-Ethyl-N-[1-(hydroxyacetyl)piperidin-4-yl]-1-methyl-4-oxo-5-(2-oxo-2-phenylethyl)-3-(2,2,2-trifluoroethoxy)-4,5-dihydro-1H-pyrrolo[3,2-c]pyridine-2-carboxamide
+23298863	T3	CHEMICAL	345	352	TAK-441
+23298863	T13	GENE	377	385	hedgehog
+23298863	T14	GENE	428	431	Smo
+23298863	T4	CHEMICAL	606	613	TAK-441
+23298863	T15	GENE	635	639	Gli1
+23298863	T16	GENE	715	723	hedgehog
+23298863	T5	CHEMICAL	857	864	TAK-441
+23298863	T17	GENE	892	896	Gli1
+23298863	T18	GENE	1057	1061	Gli1
+23298863	T7	GENE	1202	1206	Gli1
+23298863	T2	CHEMICAL	1248	1255	TAK-441
+23298863	T8	GENE	1438	1442	Gli1
+23298863	T9	GENE	1495	1499	Gli1
+23298863	T10	GENE	1578	1586	hedgehog
+23298863	T11	GENE	1656	1660	Gli1
+23298863	T12	GENE	1766	1774	hedgehog
+
+Proto-oncogene PIM-1 is a novel estrogen receptor target associating with high grade breast tumors. We searched ERα cistromes of MCF-7 breast cancer cells for previously unrecognized ERα targets and identified proto-oncogene PIM-1 as a novel potential target gene. We show that the expression of PIM-1 is induced in response to estradiol in MCF-7 cells and that the induction is mediated by ERα-regulated enhancers located distally upstream from the gene. In keeping with the growth-promoting role of the PIM-1, depletion of the PIM-1 attenuated the proliferation of the MCF-7 cells, which was paralleled with up-regulation of cyclin-dependent protein kinase inhibitor CDKN1A and CDKN2B expression. Analysis of PIM-1 expression between invasive breast tumors and benign breast tissue samples showed that elevated PIM-1 expression is associated with malignancy and a higher tumor grade. In sum, identification of PIM-1 as an ERα target gene adds a novel potential mechanism by which estrogens can contribute to breast cancer cell proliferation and carcinogenesis.
+23142699	T19	GENE	0	14	Proto-oncogene
+23142699	T20	GENE	15	20	PIM-1
+23142699	T3	CHEMICAL	32	40	estrogen
+23142699	T21	GENE	32	49	estrogen receptor
+23142699	T5	GENE	112	115	ERα
+23142699	T18	GENE	183	186	ERα
+23142699	T4	GENE	210	224	proto-oncogene
+23142699	T6	GENE	225	230	PIM-1
+23142699	T7	GENE	296	301	PIM-1
+23142699	T1	CHEMICAL	328	337	estradiol
+23142699	T8	GENE	391	394	ERα
+23142699	T9	GENE	505	510	PIM-1
+23142699	T10	GENE	529	534	PIM-1
+23142699	T11	GENE	627	668	cyclin-dependent protein kinase inhibitor
+23142699	T12	GENE	669	675	CDKN1A
+23142699	T13	GENE	680	686	CDKN2B
+23142699	T14	GENE	711	716	PIM-1
+23142699	T15	GENE	813	818	PIM-1
+23142699	T16	GENE	912	917	PIM-1
+23142699	T17	GENE	924	927	ERα
+23142699	T2	CHEMICAL	982	991	estrogens
+
+Nonthrombolytic intervention in acute myocardial infarction. Alternative interventions are available for patients in whom thrombolytic therapy is inappropriate after an acute myocardial infarction. Administration of a beta blocker within the first 24 hours of the patient's admission to the coronary care unit can reduce overall morbidity and mortality within the first 7 days by about 15%. Maintenance therapy with an oral beta blocker can reduce mortality within the succeeding 3 years by about 25%. Esmolol, a unique cardioselective beta 1-adrenergic receptor blocker with a half-life of 9 minutes, can enable some patients with relative contraindications to beta blockers to nevertheless benefit from early beta-blocking therapy. It also is useful in screening patients for subsequent therapy with beta blockers. Those who tolerate the esmolol infusion can be given a long-acting beta blocker. For patients who exhibit intolerance to esmolol, the infusion can be terminated with rapid return to baseline hemodynamics.
+2568748	T1	CHEMICAL	502	509	Esmolol
+2568748	T4	GENE	536	562	beta 1-adrenergic receptor
+2568748	T2	CHEMICAL	840	847	esmolol
+2568748	T3	CHEMICAL	938	945	esmolol
