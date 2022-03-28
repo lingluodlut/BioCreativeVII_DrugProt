@@ -16,13 +16,13 @@ The codes have been tested using Python3.7 on CentOS and uses the following depe
 
 ## Model preparation
 
-To run this code, you need to first download [the model file](https://ftp.ncbi.nlm.nih.gov/pub/lu/PhenoTagger/models.zip) ( the best single model, i.e., BioM-ELECTRAL with P->D), then unzip and put the model folder into the root folder.
+To run this code, you need to first download [the model file](https://ftp.ncbi.nlm.nih.gov/pub/lu/BC7DrugProt/model.zip) ( the best single model, i.e., BioM-ELECTRAL with P->D), then unzip and put the model folder into the root folder.
 
 
 ## Extracting drug-protein relations from free text
 <a name="tagging"></a>
 
-You can use our trained model to extract drug-protein relations from biomedical texts by the *DrugProt_Tagging_PD.py* file.
+You can use our trained model to extract drug-protein relations from biomedical texts by the /src/*DrugProt_Tagging_PD.py* file.
 
 
 The file requires 2 parameters:
