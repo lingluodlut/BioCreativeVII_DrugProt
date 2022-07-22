@@ -1,7 +1,9 @@
 # NLM-NCBI team @ BioCreative VII DrugProt Track 
 ***
 This repo contains the source code for extracting drug-protein relations in BioCreative VII DrugProt Track.
-We propose a novel sequence labeling framework to the drug-protein relation extraction. Our method achieves the top performance in the BioCreative VII DrugProt Track.
+We propose a novel sequence labeling framework to the drug-protein relation extraction. Our method achieves the top performance in the BioCreative VII DrugProt Track. Please refer to our paper for more details:
+
+- [Ling Luo, Po-Ting Lai, Chih-Hsuan Wei, Zhiyong Lu. A sequence labeling framework for extracting drug–protein relations from biomedical literature. Database, 2022, Volume 2022: baac058.](https://doi.org/10.1093/database/baac058)
 
 
 ## Dependency package
